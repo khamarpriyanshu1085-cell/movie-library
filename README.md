@@ -115,7 +115,7 @@ npm start
 
 ## 👨‍💻 Author
 
-**Priyanshu Khamar** **Vansh Surati** **Aditya Rai**
+**Priyanshu Khamar**, **Vansh Surati** And **Aditya Rai**
 
 ## 💡 Note
 
